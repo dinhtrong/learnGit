@@ -12,6 +12,7 @@ export default class thanghn1 extends Component {
         return (
             <View>
                 <Text> thang hoang ngoc</Text>
+                <Text> thang hoang ngoc</Text>
             </View>
         );
     }
