@@ -11,7 +11,7 @@ export default class thanghn1 extends Component {
     render() {
         return (
             <View>
-                <Text> thanghn1 </Text>
+                <Text> thang hoang ngoc</Text>
             </View>
         );
     }
