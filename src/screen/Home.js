@@ -1,9 +1,13 @@
 import React, { Component } from 'react';
-import {  } from 'react-native';
+import { View } from 'react-native';
 export default class Home extends Component {
     render() {
         return (
-           null 
+           <View>
+               <Text>
+                   thang
+                </Text>
+            </View>
         );
     }
 }
