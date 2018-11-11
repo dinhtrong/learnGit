@@ -11,7 +11,7 @@ export default class asdsa extends Component {
   render() {
     return (
       <View>
-        <Text> textInComponent </Text>
+        <Text> thang </Text>
       </View>
     );
   }
