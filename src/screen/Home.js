@@ -4,7 +4,9 @@ export default class Home extends Component {
     render() {
         return (
            <View>
-               <Text>thang</Text>
+               <Text>
+                   thang
+                </Text>
             </View>
         );
     }
